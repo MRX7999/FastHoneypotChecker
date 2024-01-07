@@ -36,7 +36,3 @@ When all threads have completed their scans, the program serializes the `unorder
     }
 }
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
